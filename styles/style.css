@@ -119,6 +119,7 @@ form.sign-up-form {
 }
 
 .btn:hover {
+    color: #278ca5;
     background-color: #1b5092;
 }
 
